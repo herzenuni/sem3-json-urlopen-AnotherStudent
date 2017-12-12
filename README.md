@@ -1,4 +1,4 @@
-'''
+```
 $ python3 main.py
 Введите свой id:
 1
@@ -11,4 +11,4 @@ $ python3 main.py
                'nickname': '',
                'sex': 2,
                'site': 'http://t.me/durov'}]}
-'''
+```
